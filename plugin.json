@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "gabrain",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A personal collection of stack-agnostic Copilot skills and rules for clearer reasoning, code walkthroughs, skill auditing, and consistent agent behavior.",
   "author": {
     "name": "George Apostolopoulos"

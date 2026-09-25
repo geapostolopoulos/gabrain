@@ -5,6 +5,7 @@ A personal collection of stack-agnostic Copilot skills and rules for clearer rea
 ## Included
 
 - `how`: traces how code works and produces a focused walkthrough
+- `handoff`: creates a concise continuation brief for another agent or session
 - `skill-audit`: checks whether skills were used properly in a session
 - `restate`: rewrites the last message in plain language
 - Copilot rules for evidence, safety, judgment, and consistent behavior
